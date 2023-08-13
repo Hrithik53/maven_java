@@ -13,6 +13,9 @@ public class Calculator {
 	public int div(int a,int b) {
 		return a/b;
 		}
+	public void dis() {
+		System.out.println("Hello");
+		}
 	public static void main(String[] args) {
 		Calculator b=new Calculator();
 		System.out.println("Sum is :"+ b.sum(20, 10));
