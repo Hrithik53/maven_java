@@ -19,7 +19,7 @@ public class TestClassCalculator {
 	
 public void test_diff() {
 		
-		assertEquals(10,bc.diff(15, 5));
+		assertEquals(9,bc.diff(15, 5));
 	}
 	@Test
 
