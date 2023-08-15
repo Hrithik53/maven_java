@@ -32,7 +32,7 @@ jobs:
     - name: Build and Publich Docker Image
       uses: mr-smithers-excellent/docker-build-push@v6
       with:
-        image: hkshitesh/gfgb8new
+        image: hrithik53/java_maven
         registry: docker.io
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
