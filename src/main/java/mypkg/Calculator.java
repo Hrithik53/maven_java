@@ -20,6 +20,8 @@ public class Calculator {
 		System.out.println("Diff is :"+ b.diff(20, 10));
 		System.out.println("Mul is :"+ b.MUL(20, 10));
 		System.out.println("Div is :"+ b.div(20, 10));
+		System.out.println("YEh");
+		
        
 	}
 
