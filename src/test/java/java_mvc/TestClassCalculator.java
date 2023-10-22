@@ -25,7 +25,7 @@ public void test_diff() {
 
 public void test_mul() {
 	
-	assertEquals(10,bc.MUL(2, 5));
+	assertEquals(100,bc.MUL(20, 5));
 }
 
 }
