@@ -19,7 +19,7 @@ pipeline {
 				bat 'mvn package'
 				}
 			}			
-		stage ('Stage 4: My Final Build Stage'){
+		stage ('Stage 4: My Finals Build Stage'){
 			steps {
 				bat 'mvn install'
 				}
